@@ -3,7 +3,8 @@ From the [Scillfactory Data Science course](https://skillfactory.ru/data-scienti
 
 ## Проекты
 
-* [Проект 0. Игра: Угадай число](https://github.com/OGartsueva/sf_game/blob/main/game.ipynb)
+* [Проект 0. Игра: Угадай число](https://github.com/OGartsueva/sf_game/tree/main/project%200)
+* [Проект 1. Игра: Компьютер загадывает и угадывает число](https://github.com/OGartsueva/sf_game/blob/main/game.ipynb)
 
 ## Ошлавление
 [1.Описание проекта](https://github.com/OGartsueva/sf_game/blob/main/README.md#Описание-проекта)
